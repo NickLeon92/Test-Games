@@ -1,0 +1,49 @@
+.body{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.list-group {
+    margin-left: 50px;
+    max-width: 340px;
+}
+
+.list-group-item:active{
+    background-color: aqua;
+    transition: all .3s ease-in-out;
+}
+.jumbotron{
+    justify-content: center;
+}
+
+#playagain {
+    margin-bottom: 15px;
+}
+
+#view {
+    margin-top: 15px;
+}
+
+#tester {
+    margin-left: 20px;
+}
+
+#results{
+    margin-left: 20px;
+}
+
+#question{
+    margin-left: 20px;
+}
+
+#namedisplay{
+    margin-left: 20px;
+}
+
+#username {
+    margin-left: 20px;
+}
+
+#name {
+    max-width: 500px;
+}
